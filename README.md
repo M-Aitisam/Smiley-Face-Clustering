@@ -97,8 +97,8 @@ A real-world scenario where focusing on one metric over another can lead to **in
 ## 🚀 Get Started
 Clone this repository and start experimenting with clustering and frequent pattern mining:
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+https://github.com/M-Aitisam/Smiley-Face-Clustering.git
+cd Smiley-Face-Clustering
 ```
 
 Happy coding! 🎉
